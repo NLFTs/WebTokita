@@ -1,0 +1,96 @@
+{
+  "kompetensi": [
+    {
+      "id": 1,
+      "title": "Belajar Cloud AWS",
+      "issuer": "Dicoding",
+      "date": "2024",
+      "image": "/data/img-ser/aws.png",
+      "link": "https://example.com",
+      "description": "Cloud Practitioner Certification"
+    },
+    {
+      "id": 2,
+      "title": "EF SET English Certificate",
+      "issuer": "EF Standard English Test",
+      "date": "2023",
+      "image": "/data/img-ser/efset.png",
+      "link": "https://example.com",
+      "description": "English Proficiency C1"
+    },
+    {
+      "id": 3,
+      "title": "Front End Development",
+      "issuer": "Dicoding",
+      "date": "2024",
+      "image": "/data/img-ser/front.png",
+      "link": "https://example.com",
+      "description": "Front End Web Developer"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript Fundamental",
+      "issuer": "Dicoding",
+      "date": "2023",
+      "image": "/data/img-ser/js.png",
+      "link": "https://example.com",
+      "description": "JavaScript Algorithms and Data Structures"
+    },
+    {
+      "id": 5,
+      "title": "Logika Pemrograman",
+      "issuer": "Dicoding",
+      "date": "2023",
+      "image": "/data/img-ser/logic.png",
+      "link": "https://example.com",
+      "description": "Computational Thinking"
+    },
+    {
+      "id": 6,
+      "title": "Frontend Development",
+      "issuer": "MySkill",
+      "date": "2024",
+      "image": "/data/img-ser/myskill.png",
+      "link": "https://example.com",
+      "description": "Professional Skills"
+    },
+    {
+      "id": 7,
+      "title": "Pemrograman Dasar",
+      "issuer": "Dicoding",
+      "date": "2023",
+      "image": "/data/img-ser/pemrog.png",
+      "link": "https://example.com",
+      "description": "Dasar-dasar Pemrograman"
+    },
+    {
+      "id": 8,
+      "title": "Software Engineering",
+      "issuer": "Dicoding",
+      "date": "2024",
+      "image": "/data/img-ser/software.png",
+      "link": "https://example.com",
+      "description": "Software Development Lifecycle"
+    },
+    {
+      "id": 9,
+      "title": "Web Development Bootcamp",
+      "issuer": "UNESA",
+      "date": "2023",
+      "image": "/data/img-ser/UNESA.png",
+      "link": "https://example.com",
+      "description": "Full Stack Web Development"
+    }
+  ],
+  "prestasi": [
+    {
+      "id": 10,
+      "title": "ASEAN Data Science Explorer",
+      "issuer": "ASEAN Foundation",
+      "date": "2024",
+      "image": "/data/img-ser/adse.png",
+      "link": "https://example.com",
+      "description": "Data Science Competition"
+    }
+  ]
+}

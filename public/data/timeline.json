@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2024 - Present",
+    "title": "SMK TI BAZMA",
+    "role": "Siswa & Organisasi",
+    "description": "Aktif mengembangkan diri melalui akademik dan organisasi sekolah.",
+    "details": [
+      "Anggota OSIS Divisi Keimanan (2024/2025)",
+      "Ketua PASO & Sekretaris Eskul Robotik (2025/2026)",
+      "Memimpin koordinasi kegiatan keagamaan dan teknis robotik"
+    ]
+  },
+  {
+    "date": "2025 - Present",
+    "title": "NLFTs",
+    "role": "Frontend Developer",
+    "description": "Berkontribusi dalam pengembangan produk digital skala nyata.",
+    "details": [
+      "Mengembangkan fitur menggunakan Next.js & React",
+      "Kolaborasi dengan tim desain & backend untuk integrasi API",
+      "Optimasi performa dan UX aplikasi web"
+    ]
+  },
+    {
+    "date": "2025/2026",
+    "title": "DBS Foundation Bootcamp",
+    "role": "Fullstack Developer Participant",
+    "description": "Intensif belajar pengembangan web modern dari dasar hingga deployment.",
+    "details": [
+      "Mempelajari MERN Stack (MongoDB, Express, React, Node.js)",
+      "Membangun proyek kolaboratif dengan metode Agile",
+      "Fokus pada best practices & clean code"
+    ]
+  }
+]
